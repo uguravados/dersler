@@ -1,2 +1,4 @@
 mat
 fen
+sosyal
+fen
